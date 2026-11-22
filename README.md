@@ -1,6 +1,6 @@
 # firebim.github.io
 
-신현빈 포트폴리오 사이트. Next.js(정적 export) + Tailwind CSS, GitHub Pages로 배포합니다. 주소: https://hyunkong.me
+신현빈 포트폴리오 사이트. Next.js(정적 export) + Tailwind CSS, GitHub Pages로 배포합니다. 주소: https://firebim.github.io
 
 ## 내용 바꾸는 곳
 
@@ -23,4 +23,4 @@ npm run build   # out/ 에 정적 파일 생성
 ## 배포
 
 `main`에 push하면 `.github/workflows/deploy.yml`이 빌드해서 GitHub Pages에 올립니다.
-저장소 Settings → Pages → Source 가 **GitHub Actions** 여야 합니다. 커스텀 도메인(`public/CNAME`)은 빌드 결과에 포함됩니다.
+저장소 Settings → Pages → Source 가 **GitHub Actions** 여야 합니다. 커스텀 도메인은 쓰지 않고 `https://firebim.github.io`로 서비스합니다.
