@@ -3,7 +3,7 @@
 
 export const site = {
   name: "신현빈",
-  url: "https://hyunkong.me",
+  url: "https://firebim.github.io",
   github: "https://github.com/firebim",
   email: "hello@example.com", // [샘플] 실제 이메일로 교체
   location: "Seoul, KR", // [샘플]
